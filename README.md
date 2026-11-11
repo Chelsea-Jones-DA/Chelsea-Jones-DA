@@ -1,4 +1,4 @@
-## Hi there 👋
+## Check out my recent repository.
 
 <!--
 **Chelsea-Jones-DA/Chelsea-Jones-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
